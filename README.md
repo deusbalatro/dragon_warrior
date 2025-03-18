@@ -8,4 +8,4 @@
 
 Browser based RPG game written in JavaScript.
 
-If you are student and need source code, just leave your any contact info via [New Issue](https://github.com/deusbalatro/dragon_warrior/issues).
+If you are student and need source code, just leave your any contact info via [New Issue](https://github.com/deusbalatro/dragon_warrior/issues/new/choose).
